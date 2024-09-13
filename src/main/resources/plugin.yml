@@ -1,0 +1,8 @@
+main: io.github.youngcrvg.ycorbs.Main
+name: ycOrbs
+version: 0.1-BETA
+commands:
+  criarorb:
+depend:
+  - ycBanco
+  - YoungAPI
